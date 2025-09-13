@@ -18,7 +18,7 @@ $total = $suma - $descuento;
 echo "<h2>Resultados</h2>";
 echo "Producto 1: $producto1 - $$precio1 <br>";
 echo "Producto 2: $producto2 - $$precio2 <br>";
-echo "Producto 3: $producto3 - $$precio3 <br><br>";
+echo "Producto 3: $producto3 - $$precio3 <br>";
 
 echo "Suma de precios: $$suma <br>";
 echo "Descuento (16%): $$descuento <br>";
